@@ -1,0 +1,17 @@
+
+
+[
+    {
+        "FirstName":"sharad",
+        "LastName":"Mane",
+        "email":"sharadmane11@gmail.com",
+        "message":"I am learning SAP"
+    },
+
+    {
+        "FirstName":"Rupali",
+        "LastName":"Mane",
+        "email":"rupalimane542@gmail.com",
+        "message":"I am learning cypress"
+    }
+]
